@@ -1,4 +1,4 @@
-# Bank Churn Prediction using Neural Networks
+# Bank Customer Churn Prediction using Neural Networks
 
 ## Project Summary
 
